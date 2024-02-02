@@ -1,5 +1,6 @@
 # Demanda-de-Transporte-Privado-com-Redes-Neurais-Recorrentes
-**Aplicação de Redes Neurais Recorrentes (LSTM) para Previsão da Demanda de Transporte Privado em uma Localização**
+**Aplicação da Rede Neural LSTM para Previsão da Demanda de Transporte Privado em uma Localização**
+
 **Samuel Pedrosa**
 
 O projeto tem como objetivo demonstrar a metodologia e eficiência do Long Short-Term Memory (LSTM) para previsão de séries temporais com conhecimentos de Data Science e Neural Network.
