@@ -14,8 +14,7 @@ A base selecionada foi a de registros de corridas de táxis na cidade de Nova Yo
 5. Criar a arquitetura do LSTM (Keras) e gerar o modelo.
 6. Aplicação e Validação dos resultados.
 
-[Google Colab](https://colab.research.google.com/drive/1SfTmAzBA7-ERU6ajIEwLxX1YUEXjkm5i?usp=sharing)
-[Google Slides](https://docs.google.com/presentation/d/1P2fXxo8Cn_1mos1xgt0yeFHbIWdPjL6iMNZstsBXPlU/edit?usp=sharing)
+[Google Colab](https://colab.research.google.com/drive/1SfTmAzBA7-ERU6ajIEwLxX1YUEXjkm5i?usp=sharing), [Google Slides](https://docs.google.com/presentation/d/1P2fXxo8Cn_1mos1xgt0yeFHbIWdPjL6iMNZstsBXPlU/edit?usp=sharing)
 
 **Referências:**
 * [Time-series Extreme Event Forecasting with Neural Networks at Uber](https://www.cs.columbia.edu/~lierranli/publications/TSW2017_paper.pdf)
