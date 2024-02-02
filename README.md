@@ -3,6 +3,7 @@
 
 **Samuel Pedrosa**
 
+
 O projeto tem como objetivo demonstrar a metodologia e eficiência do Long Short-Term Memory (LSTM) para previsão de séries temporais com conhecimentos de Data Science e Neural Network.
 A base selecionada foi a de registros de corridas de táxis na cidade de Nova York disponibilizada pela NYC Open Data. Dessa maneira, é possível criar e treinar um modelo para conseguir prever a demanda de táxi em uma determinada localização e tempo com a entrada sendo esses registros anteriores. Este repositório contêm o Notebook, a Apresentação e alguns dados relevantes.
 
